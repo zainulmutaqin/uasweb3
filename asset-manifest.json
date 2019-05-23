@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uasweb3/static/css/main.8edfd715.chunk.css",
+    "main.js": "/uasweb3/static/js/main.d82ae3e1.chunk.js",
+    "main.js.map": "/uasweb3/static/js/main.d82ae3e1.chunk.js.map",
+    "runtime~main.js": "/uasweb3/static/js/runtime~main.80a0655b.js",
+    "runtime~main.js.map": "/uasweb3/static/js/runtime~main.80a0655b.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/uasweb3/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/uasweb3/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/uasweb3/index.html",
+    "precache-manifest.ac3be4a76f7d0101766732be6177353f.js": "/uasweb3/precache-manifest.ac3be4a76f7d0101766732be6177353f.js",
+    "service-worker.js": "/uasweb3/service-worker.js",
+    "static/css/main.8edfd715.chunk.css.map": "/uasweb3/static/css/main.8edfd715.chunk.css.map"
+  }
+}
